@@ -727,8 +727,7 @@
               "RelativeToolTip": "DAL\\Repository\\UnitOfWork.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAcwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T23:26:39.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T23:26:39.945Z"
             },
             {
               "$type": "Document",
@@ -740,8 +739,7 @@
               "RelativeToolTip": "DAL\\UserModels\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T13:21:42.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T13:21:42.771Z"
             },
             {
               "$type": "Document",
@@ -753,8 +751,7 @@
               "RelativeToolTip": "DAL\\Repository\\GenericRepository.cs",
               "ViewState": "AgIAAP4AAAAAAAAAAAAkwBoBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T09:28:59.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T09:28:59.745Z"
             },
             {
               "$type": "Document",
@@ -766,8 +763,7 @@
               "RelativeToolTip": "WebApi\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T12:09:51.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T12:09:51.522Z"
             },
             {
               "$type": "Document",
@@ -779,8 +775,7 @@
               "RelativeToolTip": "WebApi\\Services\\RegisterService.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAgwE0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T03:33:22.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T03:33:22.393Z"
             },
             {
               "$type": "Document",
@@ -792,8 +787,7 @@
               "RelativeToolTip": "Shipping_Project\\Services\\RegisterService.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAQwFMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T11:26:40.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T11:26:40.684Z"
             },
             {
               "$type": "Document",
@@ -805,8 +799,7 @@
               "RelativeToolTip": "Shipping_Project\\Services\\GenericApiClient.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAgwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T20:23:54.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T20:23:54.268Z"
             },
             {
               "$type": "Document",
@@ -831,8 +824,7 @@
               "RelativeToolTip": "Domains\\Entities\\BaseTable.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T11:19:30.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T11:19:30.947Z"
             },
             {
               "$type": "Document",
@@ -844,8 +836,7 @@
               "RelativeToolTip": "DAL\\Contract\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T23:26:11.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T23:26:11.952Z"
             },
             {
               "$type": "Document",
@@ -857,8 +848,7 @@
               "RelativeToolTip": "BL\\Service\\BaseService.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T08:05:58.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T08:05:58.229Z"
             },
             {
               "$type": "Document",
@@ -990,8 +980,7 @@
               "RelativeToolTip": "Shipping_Project\\Controllers\\ShipmentController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T04:35:22.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T04:35:22.726Z"
             },
             {
               "$type": "Document",
@@ -1099,8 +1088,7 @@
               "RelativeToolTip": "WebApi\\Controllers\\ShipmentController.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAADgv38AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T02:46:35.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T02:46:35.433Z"
             },
             {
               "$type": "Document",
@@ -1711,8 +1699,7 @@
               "RelativeToolTip": "Shipping_Project\\Controllers\\AccountController.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAmwEEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T12:04:21.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T12:04:21.562Z"
             },
             {
               "$type": "Document",
