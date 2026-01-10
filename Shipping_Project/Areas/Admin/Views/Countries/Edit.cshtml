@@ -1,0 +1,49 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model CountryDto
+@section styles {
+    <link rel="stylesheet" href="~/Admin/vendors/select2/select2.min.css">
+    <link rel="stylesheet" href="~/Admin/vendors/select2-bootstrap-theme/select2-bootstrap.min.css">
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+
+            <form class="forms-sample" method="post" enctype="multipart/form-data"
+                  asp-controller="Countries" asp-action="Save" role="form">
+                <h4 class="card-title">@Shipping.CountryName</h4>
+                <p class="card-description">  </p>
+
+                <input asp-for="Id" type="hidden" />
+                <div class="form-group">
+                    <label for="exampleInputUsername1">@Labels.NameAr</label>
+                    <input asp-for="CountryAname" type="text" class="form-control" placeholder="@Labels.NameAr">
+                    <span asp-validation-for="CountryAname" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputUsername1">@Labels.NameEn</label>
+                    <input asp-for="CountryEname" type="text" class="form-control" placeholder="@Labels.NameEn">
+                    <span asp-validation-for="CountryEname" class="text-danger"></span>
+                </div>
+            
+             
+                <button type="submit" formmethod="post" class="btn btn-gradient-primary me-2">@Actions.Save</button>
+                <button class="btn btn-light">@Actions.Clear</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script src="~/Admin/vendors/select2/select2.min.js"></script>
+    <script src="~/Admin/vendors/typeahead.js/typeahead.bundle.min.js"></script>
+
+    <script src="~/Admin/js/file-upload.js"></script>
+    <script src="~/Admin/js/typeahead.js"></script>
+    <script src="~/Admin/js/select2.js"></script>
+}

@@ -1,0 +1,17 @@
+D:\mohamed\platform\Shipping_Project\DAL\bin\Debug\net9.0\DAL.deps.json
+D:\mohamed\platform\Shipping_Project\DAL\bin\Debug\net9.0\DAL.runtimeconfig.json
+D:\mohamed\platform\Shipping_Project\DAL\bin\Debug\net9.0\DAL.dll
+D:\mohamed\platform\Shipping_Project\DAL\bin\Debug\net9.0\DAL.pdb
+D:\mohamed\platform\Shipping_Project\DAL\bin\Debug\net9.0\Domains.dll
+D:\mohamed\platform\Shipping_Project\DAL\bin\Debug\net9.0\Domains.pdb
+D:\mohamed\platform\Shipping_Project\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+D:\mohamed\platform\Shipping_Project\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohamed\platform\Shipping_Project\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+D:\mohamed\platform\Shipping_Project\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+D:\mohamed\platform\Shipping_Project\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+D:\mohamed\platform\Shipping_Project\DAL\obj\Debug\net9.0\DAL.csproj.Up2Date
+D:\mohamed\platform\Shipping_Project\DAL\obj\Debug\net9.0\DAL.dll
+D:\mohamed\platform\Shipping_Project\DAL\obj\Debug\net9.0\refint\DAL.dll
+D:\mohamed\platform\Shipping_Project\DAL\obj\Debug\net9.0\DAL.pdb
+D:\mohamed\platform\Shipping_Project\DAL\obj\Debug\net9.0\DAL.genruntimeconfig.cache
+D:\mohamed\platform\Shipping_Project\DAL\obj\Debug\net9.0\ref\DAL.dll
